@@ -1,1 +1,1 @@
-# odin-recipes
+In this project I will learn the basics of HTML through making a basic website with some recipes. It will demonstrate how simple elements work in HTML and will be the building blocks upon which my web developer career will begin!
